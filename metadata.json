@@ -1,0 +1,6 @@
+{
+  "name": "Civic Flow",
+  "description": "Zababdeh Municipality integrated Water Management System featuring offline-first data, AI-powered meter reading OCR via Gemini, and dynamic GIS zone analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
